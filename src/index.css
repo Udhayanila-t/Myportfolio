@@ -1,0 +1,160 @@
+.navbar{
+  display: flex;
+  align-items:center;
+
+  margin: 20px 0 20px 50px;
+  
+  background-color: rgb(0, 0, 0);
+  
+  
+}
+.nav-links {
+  gap: 30px;
+  display: flex;
+  margin-left: auto;
+  color:aliceblue;
+}
+.greet{
+  color:blueviolet;
+}
+.header{
+  width:100%;
+  background-color: rgb(0, 0, 0);
+  color:aliceblue
+}
+.Home-section{
+  width:100%;
+  background-color: rgb(0, 0, 0);
+  color:aliceblue;
+  justify-content: center;
+ 
+}
+.body{
+  background-color: rgb(0, 0, 0);
+}
+.nav-links a{
+  color:aliceblue;
+}
+.Home-section h2{
+  color: blueviolet;
+ 
+}
+.btn{
+  padding: 10px;
+  background-color: blueviolet;
+  color: aliceblue;
+  margin: 10px;
+  border-radius: 7px;
+}
+.sub-section{
+  margin: 10px;
+  justify-content: center;
+}
+.body {
+  width: 100%;
+  min-height: 100vh;
+  background-color: rgb(0, 0, 0);
+  margin: 0;
+}
+.statement{
+  width: 700px;
+}
+.about{
+  margin-left: 10px;
+}
+.bi-calendar3{
+  color:rgb(104, 12, 189);
+
+}
+.bi-mortarboard-fill{
+  color: rgb(104, 12, 189);
+}
+.bi-geo-alt-fill{
+  color: rgb(104, 12, 189);
+}
+.bi-envelope-fill{
+  color: rgb(104, 12, 189);
+}
+.bi-telephone-fill{
+  color: rgb(104, 12, 189);
+}
+.bi-linkedin{
+  color: rgb(104, 12, 189);
+}
+.bi-geo-alt-fill{
+  color: rgb(104, 12, 189);
+}
+.bi-github{
+  color:rgb(104, 12, 189) ;
+}
+.icons i{
+  color: aliceblue;
+}
+
+.r{
+  gap: 7%;
+}
+
+.aboutbtn{
+  background-color: blueviolet;
+  color: aliceblue;
+  margin-top: 25px;
+  border-radius: 25%;
+}
+.aboutcon{
+  margin-left: 30px;
+  margin-top: 70px;
+}
+.abimg{
+  margin-top: 70px; 
+}
+.Himg{
+width: 250px;
+height: 320px;
+border-radius: 50%;
+object-fit: cover;
+margin-left: 30px;
+margin-top: 50ox;
+border: solid blueviolet;
+}
+.total-content{
+  margin-top: 50px;
+}
+.icons{
+  margin-top: 10px;
+
+}
+.f-1{
+  width: 50%;
+  min-height: 100vh;
+  background-color: rgb(196, 170, 219);
+}
+.f-2{
+  width: 50%;
+  background-color: #8e81e7;
+  min-height: 100vh;
+}
+.p{
+  width: 500px;
+}
+.right{
+  margin-top: 50px;
+  margin-left: 50px;
+}
+.r td{
+  padding: 5px;
+}
+.anime-img{
+  height: 500px;
+  width: 500px;
+  object-fit: contain;
+  background: transparent;
+ margin-top: 180px;
+padding-right: 250px;
+ 
+}
+.contact-form{
+  width: 400px;
+  margin-left:50px;
+  margin-top: 50px;
+}
